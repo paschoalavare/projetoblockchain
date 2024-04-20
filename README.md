@@ -10,9 +10,14 @@ Desenvolvimento de um <b>código</b> específico para estar gerando uma chave qu
 
 <h1>GERANDO A CHAVE PARA A CARTERIA DE CRIPTOMOEDAS.</h1>
 <br>
-Segue abaixo o processo aonde se utiliza dentro do terminal de execução de serviço o código <b>node .\createWallet.js gerando 2 chaves aonde dá a possibilidade de estar inserindo dentro da plataforma blockchain para estar realizando transações de forma externa dentro do programa electrum</b>
+Segue abaixo o processo aonde se utiliza dentro do terminal de execução de serviço o código <b>node .\createWallet.js gerando 2 chaves aonde dá a possibilidade de estar inserindo dentro da plataforma blockchain para estar realizando transações de forma externa dentro do programa electrum.</b>
 <br>
 
 ![20_04_2024](https://github.com/paschoalavare/projetoblockchain/assets/101903228/9208ddc8-1ef9-437b-8599-2a6d298ab0b4)
 
 <br>
+<h1>USANDO ELECTRUM PARA ACESSAR A CONTA PARA TRANSAÇÕES E EXTRATOS.</h1>
+<BR>
+
+![20_04_2024 3](https://github.com/paschoalavare/projetoblockchain/assets/101903228/48b57a5c-601a-4333-944c-89b7daa30e7c)
+
