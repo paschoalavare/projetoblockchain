@@ -21,3 +21,8 @@ Segue abaixo o processo aonde se utiliza dentro do terminal de execução de ser
 
 ![20_04_2024 3](https://github.com/paschoalavare/projetoblockchain/assets/101903228/48b57a5c-601a-4333-944c-89b7daa30e7c)
 
+<br>
+<h1>PROGRAMA ELECTRUM EM EXECUÇÃO.</h1>
+<BR>
+
+![20_04_2024 4](https://github.com/paschoalavare/projetoblockchain/assets/101903228/cfb329b5-fff2-4802-8654-a6149fdbdcfc)
