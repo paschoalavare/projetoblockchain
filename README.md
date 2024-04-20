@@ -16,7 +16,7 @@ Segue abaixo o processo aonde se utiliza dentro do terminal de execução de ser
 ![20_04_2024](https://github.com/paschoalavare/projetoblockchain/assets/101903228/9208ddc8-1ef9-437b-8599-2a6d298ab0b4)
 
 <br>
-<h1>USANDO ELECTRUM PARA ACESSAR A CONTA PARA TRANSAÇÕES E EXTRATOS.</h1>
+<h1>ELECTRUM PARA ACESSAR A CONTA PARA TRANSAÇÕES E EXTRATOS.</h1>
 <BR>
 
 ![20_04_2024 3](https://github.com/paschoalavare/projetoblockchain/assets/101903228/48b57a5c-601a-4333-944c-89b7daa30e7c)
